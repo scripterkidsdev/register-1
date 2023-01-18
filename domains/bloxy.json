@@ -1,0 +1,11 @@
+{
+  "description": "Epic Bloxy Script ",
+  "repo": "https://github.com/scripterkidsdev/scripterkidsdev.github.io",
+  "owner": {
+    "username": "Bloxy Founder",
+    "email": "mcillioglus@gmail.com "
+  },
+  "record": {
+    "CNAME": "scripterkidsdev.github.io"
+  }
+}
